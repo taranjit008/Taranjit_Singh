@@ -1,16 +1,33 @@
-## Hi there 👋
+## Hi,I'm Taran
 
-<!--
-**taranjit008/taranjit008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Btech Information Technology Student
 
-Here are some ideas to get you started:
+Currently exploring Machine Learning,Deep Learning and Artificial Intelligence through mathematics,programming and hands-on projects 
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- NumPy
+- Linear algebra
+- Pandas(learning)
+
+## Current projects
+
+- ML Journey
+
+## Learning Roadmap
+
+- Machine Learning
+- Deep Learning
+- PyTorch
+- Computer Vision
+
+## Goals
+
+- Build multiple end-to-end ML projects
+- Master the mathematics behind ML
+- Research next-genration AI architectures
+- Pursue a Master's degree at MIT
+
+## Connect
+
+- 
